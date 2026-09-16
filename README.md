@@ -30,8 +30,6 @@
 
 ## 📊 GitHub Stats
 
-<!-- YOUR_USERNAME을 자신의 GitHub username으로 변경하세요. -->
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=handssu&show_icons=true)
 
 ---
